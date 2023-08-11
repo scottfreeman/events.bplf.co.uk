@@ -2,13 +2,13 @@ import React from 'react';
 import Head from 'next/head';
 import { NextSeo } from 'next-seo';
 
-import { Header } from './sections/Header';
-import { Main } from './sections/Main';
-import { Footer } from './sections/Footer';
-import { Hotel } from './sections/Hotel';
-import { Registration } from './sections/Registration';
-import { Schedule } from './sections/Schedule';
-import { Sponsors } from './sections/Sponsors';
+import { Header } from './components/Header';
+import { Main } from './components/Main';
+import { Footer } from './components/Footer';
+import { Hotel } from './components/Hotel';
+import { Registration } from './components/Registration';
+import { Schedule } from './components/Schedule';
+import { Sponsors } from './components/Sponsors';
 
 const Worlds = () => {
   return (
