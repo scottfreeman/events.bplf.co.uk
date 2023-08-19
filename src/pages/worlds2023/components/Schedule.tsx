@@ -68,7 +68,6 @@ export function Schedule() {
                 <div>Women&apos;s (KG): 82.5 & 90</div>
                 <div className='mt-2'>9:00am to 12:00pm &amp;</div>
                 <div>2:00pm to 5:00pm</div>
-                <div className='text-xs mt-1'>7am to 7:30am by exception only</div>
               </div>
               <div className='mb-8'>
                 <div className='text-lg font-bold'>Friday, 20th October, 2023</div>
@@ -76,7 +75,6 @@ export function Schedule() {
                 <div>Women&apos;s (KG): 100 & 110</div>
                 <div className='mt-2'>9:00am to 12:00pm &amp;</div>
                 <div>2:00pm to 5:00pm</div>
-                <div className='text-xs mt-1'>7am to 7:30am by exception only</div>
               </div>
               <div>
                 <div className='text-lg font-bold'>Saturday, 21st October, 2023</div>
@@ -84,7 +82,6 @@ export function Schedule() {
                 <div>Women&apos;s (KG): 110+</div>
                 <div className='mt-2'>9:00am to 12:00pm &amp;</div>
                 <div>2:00pm to 5:00pm</div>
-                <div className='text-xs mt-1'>7am to 7:30am by exception only</div>
               </div>
             </div>
           </div>

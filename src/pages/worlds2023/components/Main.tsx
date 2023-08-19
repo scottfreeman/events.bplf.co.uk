@@ -106,11 +106,11 @@ export function Main() {
             <div className='mb-2'>
               <span className='font-bold'>Powerlifting bars used:</span>
               <br />
-              Squat bar: 25kg Capps Texas Squat Bar.
+              Squat bar: 25kg Kabuki Squat Bar.
               <br />
-              Bench bar: 20kg Capps Texas Power Bar.
+              Bench bar: 20kg Kabuki Power Bar.
               <br />
-              Deadlift bar: 20kg Capps Texas Deadlift Bar.
+              Deadlift bar: 20kg Kabuki Deadlift Bar.
             </div>
             <div className='mb-2'>
               <span className='font-bold'>Livestream:</span>
