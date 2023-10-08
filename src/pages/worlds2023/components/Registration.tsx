@@ -133,6 +133,26 @@ export function Registration() {
               </div>
             </div>
           </div>
+
+          <div className='flex flex-col md:flex-row mb-4'>
+            <div className='hidden md:block md:w-24'>
+              <div className='text-9xl font-bold text-orange-700 text-right pr-10'>4</div>
+            </div>
+            <div className='mt-4'>
+              <div className='text-2xl mb-2'>
+                <span className='font-bold text-orange-700 pr-3 md:hidden'>4:</span>Book your event photos
+              </div>
+              <div className='mb-2'>
+                If you want our event, Unbreakable Media, to capture your lifts in photos or videos, please complete the
+                booking form.
+              </div>
+              <div className='mt-2'>
+                <Button href='https://forms.gle/C6KnLiSbCcFeTsWc8' target='_blank'>
+                  Photo Booking Form
+                </Button>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
     </div>
