@@ -53,35 +53,35 @@ export function Schedule() {
                 <div>Men&apos;s (KG) 44, 48, 52, 56, 60</div>
                 <div>Women&apos;s (KG): 44, 48, 52, 56, 60</div>
                 <div className='mt-2'>9:00am to 12:00pm &amp;</div>
-                <div>2:00pm to 5:00pm</div>
+                <div>5:00pm to 6:30pm</div>
               </div>
               <div className='mb-8'>
                 <div className='text-lg font-bold'>Wednesday, 18th October, 2023</div>
                 <div>Men&apos;s (KG) 67.5 & 75</div>
                 <div>Women&apos;s (KG): 67.5 & 75</div>
                 <div className='mt-2'>9:00am to 12:00pm &amp;</div>
-                <div>2:00pm to 5:00pm</div>
+                <div>5:00pm to 6:30pm</div>
               </div>
               <div className='mb-8'>
                 <div className='text-lg font-bold'>Thursday, 19th October, 2023</div>
                 <div>Men&apos;s (KG) 82.5 & 90</div>
                 <div>Women&apos;s (KG): 82.5 & 90</div>
                 <div className='mt-2'>9:00am to 12:00pm &amp;</div>
-                <div>2:00pm to 5:00pm</div>
+                <div>5:00pm to 6:30pm</div>
               </div>
               <div className='mb-8'>
                 <div className='text-lg font-bold'>Friday, 20th October, 2023</div>
                 <div>Men&apos;s (KG) 100 & 110</div>
                 <div>Women&apos;s (KG): 100 & 110</div>
                 <div className='mt-2'>9:00am to 12:00pm &amp;</div>
-                <div>2:00pm to 5:00pm</div>
+                <div>5:00pm to 6:30pm</div>
               </div>
               <div>
                 <div className='text-lg font-bold'>Saturday, 21st October, 2023</div>
                 <div>Men&apos;s (KG) 125, 140, 140+</div>
                 <div>Women&apos;s (KG): 110+</div>
                 <div className='mt-2'>9:00am to 12:00pm &amp;</div>
-                <div>2:00pm to 5:00pm</div>
+                <div>5:00pm to 6:30pm</div>
               </div>
             </div>
           </div>
