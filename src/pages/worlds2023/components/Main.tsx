@@ -12,13 +12,13 @@ export function Main() {
       if (now < endDate) {
         return (
           <div className='mx-4'>
-            <Button
+            {/* <Button
               href='#'
               target='_blank'
               className='bg-gradient-to-b from-orange-500 to-orange-900 text-2xl lg:text-4xl uppercase hover:from-orange-600 hover:to-orange-900'
             >
               Watch Livestream
-            </Button>
+            </Button> */}
           </div>
         );
       }
