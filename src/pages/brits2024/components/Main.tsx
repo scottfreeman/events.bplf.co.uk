@@ -3,7 +3,7 @@ import Countdown, { CountdownRenderProps } from 'react-countdown';
 import { A, Button } from '@/components/atoms';
 
 export function Main() {
-  const date = new Date('2024-05-17 09:00:00');
+  const date = new Date('2024-05-17 10:00:00');
   const now = new Date();
   const endDate = new Date('2024-05-19 17:00:00');
 
@@ -93,7 +93,7 @@ export function Main() {
               <br />
               &pound;10 each day for 16 years old and over.
               <br />
-              Lifting begins 9am each day.
+              Lifting begins 10am each day.
             </div>
             <div className='mb-2'>
               <span className='font-bold'>Powerlifting bars used:</span>
@@ -118,7 +118,7 @@ export function Main() {
                 </div>
                 <div className='md:w-1/2'>
                   Lady Petra Kent
-                  <div className='lg:text-sm'>BPF vice-president.</div>
+                  <div className='lg:text-sm'>BPF/WPU vice-president.</div>
                 </div>
               </div>
             </div>
