@@ -63,7 +63,7 @@ export function Main() {
           <div className='text-xl'>Butts Park Arena, Coventry, CV1 3GE</div>
         </div>
         <div className='text-2xl lg:text-4xl font-bold mb-8 uppercase'>
-          17 - 19<sup className='lowercase text-sm lg:-top-5'>th</sup> May, 2023
+          17 - 19<sup className='lowercase text-sm lg:-top-5'>th</sup> May, 2024
         </div>
         <div>
           <Countdown date={date} renderer={countdownRenderer} />
