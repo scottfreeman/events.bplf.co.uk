@@ -9,12 +9,12 @@ export function Schedule() {
             <div className='flex-1 m-4 p-4 text-center'>
               <div className='text-2xl uppercase font-bold mb-4'>Lifting Schedule</div>
               <div className='mb-8'>
-                <div className='text-lg font-bold'>Friday 28th June</div>
+                <div className='text-lg font-bold'>Saturday 29th June</div>
                 <div>Platform 1: 100% raw powerlifting Mr & Mrs Universe pro meet tested</div>
                 <div>Platform 2: WPU Mr & Mrs Universe pro meet untested</div>
               </div>
               <div className='mb-8'>
-                <div className='text-lg font-bold'>Saturday 29th June</div>
+                <div className='text-lg font-bold'>Sunday 30th June</div>
                 <div>Platform 1: 100% raw powerlifting Mr & Mrs Universe pro meet tested (raw only lifers)</div>
                 <div>Platform 2: WPU Mr & Mrs Universe pro meet untested & tested (classic raw, s/p and equipped)</div>
               </div>

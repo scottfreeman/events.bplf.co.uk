@@ -16,7 +16,7 @@ const LandingPage = () => {
         description='WPU World Pro Cup 2024 & 100% Strict Curl Championships on 28th & 29th June 2024. Hosted by the British Powerlifting Federation.'
       />
       <Head>
-        <title>WPU World Pro Cup 2024 & 100% Strict Curl Championships | 28th & 29th June 2024 | Wales, UK</title>
+        <title>WPU World Pro Cup 2024 & 100% Strict Curl Championships | 29th & 30th June 2024 | Wales, UK</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <Header />
