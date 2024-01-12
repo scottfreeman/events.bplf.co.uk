@@ -24,7 +24,6 @@ const Worlds = () => {
       <Header />
       <Main />
       <Registration />
-      <Schedule />
       <Sponsors />
       <Footer />
     </div>
