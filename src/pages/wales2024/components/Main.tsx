@@ -127,7 +127,7 @@ export function Main() {
             <div className='mb-2'>
               <span className='font-bold'>Contact:</span>
               <br />
-              <A href='mailto:bpf.secretary@gmail.com'>bpf.secretary@gmail.com</A>
+              <A href='mailto:bpfwpuheadoffice@gmail.com'>bpfwpuheadoffice@gmail.com</A>
             </div>
           </div>
         </div>
