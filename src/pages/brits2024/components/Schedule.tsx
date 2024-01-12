@@ -1,3 +1,5 @@
+import { A } from '@/components/atoms';
+
 export function Schedule() {
   return (
     <div className='xl:w-5/6 m-auto mb-10'>
@@ -5,41 +7,16 @@ export function Schedule() {
         <div className='flex w-full lg:w-1/2'>
           <div className='m-4 border rounded w-full'>
             <div className='flex-1 m-4 p-4 text-center'>
-              <div className='text-2xl uppercase font-bold mb-8'>Lifting Schedule</div>
+              <div className='text-2xl uppercase font-bold mb-4'>Lifting Schedule</div>
               <div className='mb-8'>
-                <div className='text-lg font-bold'>Wednesday, 18th October, 2023</div>
-                <div>Men&apos;s (KG) 44, 48, 52, 56, 60</div>
-                <div>Women&apos;s (KG): 44, 48, 52, 56, 60</div>
-                <div className='mt-2'>Warmup: 8:00am</div>
-                <div>Lifting Begins: 9:00am</div>
+                <div className='text-lg font-bold'>Saturday 29th June</div>
+                <div>Platform 1: 100% raw powerlifting Mr & Mrs Universe pro meet tested</div>
+                <div>Platform 2: WPU Mr & Mrs Universe pro meet untested</div>
               </div>
               <div className='mb-8'>
-                <div className='text-lg font-bold'>Thursday, 19th October, 2023</div>
-                <div>Men&apos;s (KG) 67.5 & 75</div>
-                <div>Women&apos;s (KG): 67.5 & 75</div>
-                <div className='mt-2'>Warmup: 8:00am</div>
-                <div>Lifting Begins: 9:00am</div>
-              </div>
-              <div className='mb-8'>
-                <div className='text-lg font-bold'>Friday 20th October, 2023</div>
-                <div>Men&apos;s (KG) 82.5 & 90</div>
-                <div>Women&apos;s (KG): 82.5 & 90</div>
-                <div className='mt-2'>Warmup: 8:00am</div>
-                <div>Lifting Begins: 9:00am</div>
-              </div>
-              <div className='mb-8'>
-                <div className='text-lg font-bold'>Saturday, 21st October, 2023</div>
-                <div>Men&apos;s (KG) 100 & 110</div>
-                <div>Women&apos;s (KG): 100 & 110</div>
-                <div className='mt-2'>Warmup: 8:00am</div>
-                <div>Lifting Begins: 9:00am</div>
-              </div>
-              <div>
-                <div className='text-lg font-bold'>Sunday, 22nd October, 2023</div>
-                <div>Men&apos;s (KG) 125, 140, 140+</div>
-                <div>Women&apos;s (KG): 110+</div>
-                <div className='mt-2'>Warmup: 8:00am</div>
-                <div>Lifting Begins: 9:00am</div>
+                <div className='text-lg font-bold'>Sunday 30th June</div>
+                <div>Platform 1: 100% raw powerlifting Mr & Mrs Universe pro meet tested (raw only lifers)</div>
+                <div>Platform 2: WPU Mr & Mrs Universe pro meet untested & tested (classic raw, s/p and equipped)</div>
               </div>
             </div>
           </div>
@@ -47,41 +24,30 @@ export function Schedule() {
         <div className='flex w-full lg:w-1/2'>
           <div className='m-4 border rounded w-full'>
             <div className='flex-1 m-4 p-4 text-center'>
-              <div className='text-2xl uppercase font-bold mb-8'>Weigh-In &amp; Gear Check Schedule</div>
+              <div className='text-2xl uppercase font-bold mb-4'>Weigh-In &amp; Gear Check Schedule</div>
               <div className='mb-8'>
-                <div className='text-lg font-bold'>Tuesday, 17th October, 2023</div>
-                <div>Men&apos;s (KG) 44, 48, 52, 56, 60</div>
-                <div>Women&apos;s (KG): 44, 48, 52, 56, 60</div>
-                <div className='mt-2'>9:00am to 12:00pm &amp;</div>
-                <div>5:00pm to 6:30pm</div>
+                <div className='mb-2'>
+                  Friday 28th June 2024 for Saturday athletes will be weigh-in, kit and ID checks 12pm till 2pm
+                </div>
+                <div className='mb-2'>
+                  Saturday 29th June 2024 for Sunday athletes will be weigh-in, kit and ID checks 12pm till 2pm
+                </div>
+                <div>This is a 24 hour weigh in no one will be weighed in on the day they are lifting.</div>
               </div>
-              <div className='mb-8'>
-                <div className='text-lg font-bold'>Wednesday, 18th October, 2023</div>
-                <div>Men&apos;s (KG) 67.5 & 75</div>
-                <div>Women&apos;s (KG): 67.5 & 75</div>
-                <div className='mt-2'>9:00am to 12:00pm &amp;</div>
-                <div>5:00pm to 6:30pm</div>
-              </div>
-              <div className='mb-8'>
-                <div className='text-lg font-bold'>Thursday, 19th October, 2023</div>
-                <div>Men&apos;s (KG) 82.5 & 90</div>
-                <div>Women&apos;s (KG): 82.5 & 90</div>
-                <div className='mt-2'>9:00am to 12:00pm &amp;</div>
-                <div>5:00pm to 6:30pm</div>
-              </div>
-              <div className='mb-8'>
-                <div className='text-lg font-bold'>Friday, 20th October, 2023</div>
-                <div>Men&apos;s (KG) 100 & 110</div>
-                <div>Women&apos;s (KG): 100 & 110</div>
-                <div className='mt-2'>9:00am to 12:00pm &amp;</div>
-                <div>5:00pm to 6:30pm</div>
-              </div>
+              <div className='text-2xl uppercase font-bold mb-4'>Rules</div>
               <div>
-                <div className='text-lg font-bold'>Saturday, 21st October, 2023</div>
-                <div>Men&apos;s (KG) 125, 140, 140+</div>
-                <div>Women&apos;s (KG): 110+</div>
-                <div className='mt-2'>9:00am to 12:00pm &amp;</div>
-                <div>5:00pm to 6:30pm</div>
+                <ul>
+                  <li>
+                    <A href='https://bplf.co.uk/rules' target='_blank'>
+                      BPF / WPU RULE BOOK 2023
+                    </A>
+                  </li>
+                  <li>
+                    <A href='https://rawpowerlifting.com/rules/' target='_blank'>
+                      100% RAW POWERLIFTING RULE BOOK 2023
+                    </A>
+                  </li>
+                </ul>
               </div>
             </div>
           </div>

@@ -3,9 +3,9 @@ import Countdown, { CountdownRenderProps } from 'react-countdown';
 import { A, Button } from '@/components/atoms';
 
 export function Main() {
-  const date = new Date('2024-05-17 10:00:00');
+  const date = new Date('2024-06-29 10:00:00');
   const now = new Date();
-  const endDate = new Date('2024-05-19 17:00:00');
+  const endDate = new Date('2024-06-30 17:00:00');
 
   const countdownRenderer = ({ completed, formatted }: CountdownRenderProps) => {
     if (completed) {
@@ -63,7 +63,7 @@ export function Main() {
           <div className='text-xl'>Butts Park Arena, Coventry, CV1 3GE</div>
         </div>
         <div className='text-2xl lg:text-4xl font-bold mb-8 uppercase'>
-          17 - 19<sup className='lowercase text-sm lg:-top-5'>th</sup> May, 2024
+          29 - 30<sup className='lowercase text-sm lg:-top-5'>th</sup> June, 2024
         </div>
         <div>
           <Countdown date={date} renderer={countdownRenderer} />
