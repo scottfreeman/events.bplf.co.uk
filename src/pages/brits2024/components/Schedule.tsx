@@ -9,14 +9,15 @@ export function Schedule() {
             <div className='flex-1 m-4 p-4 text-center'>
               <div className='text-2xl uppercase font-bold mb-4'>Lifting Schedule</div>
               <div className='mb-8'>
-                <div className='text-lg font-bold'>Saturday 29th June</div>
-                <div>Platform 1: 100% raw powerlifting Mr & Mrs Universe pro meet tested</div>
-                <div>Platform 2: WPU Mr & Mrs Universe pro meet untested</div>
+                <div className='text-lg font-bold'>Saturday 18th May 2024</div>
+                <div>Platform 1: Women up to 75kg B/W Classes</div>
+                <div>Platform 2: Men up to 82.5kg B/W Classes</div>
+                <div>Platform 3: ALL STRICT CURL LIFTERS</div>
               </div>
               <div className='mb-8'>
-                <div className='text-lg font-bold'>Sunday 30th June</div>
-                <div>Platform 1: 100% raw powerlifting Mr & Mrs Universe pro meet tested (raw only lifers)</div>
-                <div>Platform 2: WPU Mr & Mrs Universe pro meet untested & tested (classic raw, s/p and equipped)</div>
+                <div className='text-lg font-bold'>Sunday 19th May 2024 full power</div>
+                <div>Platform 1: Women over 75kg B/W Classes</div>
+                <div>Platform 2: Men over 82.5kg B/W/ Classes</div>
               </div>
             </div>
           </div>
@@ -27,10 +28,10 @@ export function Schedule() {
               <div className='text-2xl uppercase font-bold mb-4'>Weigh-In &amp; Gear Check Schedule</div>
               <div className='mb-8'>
                 <div className='mb-2'>
-                  Friday 28th June 2024 for Saturday athletes will be weigh-in, kit and ID checks 12pm till 2pm
+                  Friday 17th May 2024 for Saturday athletes will be weigh-in, kit and ID checks 12pm till 3pm
                 </div>
                 <div className='mb-2'>
-                  Saturday 29th June 2024 for Sunday athletes will be weigh-in, kit and ID checks 12pm till 2pm
+                  Saturday 18th May 2024 for Sunday athletes will be weigh-in, kit and ID checks 12pm till 2pm
                 </div>
                 <div>This is a 24 hour weigh in no one will be weighed in on the day they are lifting.</div>
               </div>

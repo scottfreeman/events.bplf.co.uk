@@ -7,6 +7,7 @@ import { Main } from './components/Main';
 import { Footer } from './components/Footer';
 import { Registration } from './components/Registration';
 import { Sponsors } from './components/Sponsors';
+import { Schedule } from './components/Schedule';
 
 const LandingPage = () => {
   return (
@@ -22,6 +23,7 @@ const LandingPage = () => {
       <Header />
       <Main />
       <Registration />
+      <Schedule />
       <Sponsors />
       <Footer />
     </div>

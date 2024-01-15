@@ -18,12 +18,14 @@ const Worlds = () => {
         description='BPF BRITISH CHAMPIONSHIPS in Coventry, UK on 17th, 18th, 19th May. Hosted by British Powerlifting Federation.'
       />
       <Head>
-        <title>BPF BRITISH CHAMPIONSHIPS 2024 | 17 - 19 May 2024 | Coventry, UK</title>
+        <title>BPF BRITISH CHAMPIONSHIPS 2024 | 18 - 19 May 2024 | Coventry, UK</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <Header />
       <Main />
+      <Schedule />
       <Registration />
+      <Hotel />
       <Sponsors />
       <Footer />
     </div>

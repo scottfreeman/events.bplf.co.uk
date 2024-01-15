@@ -20,7 +20,7 @@ export function Footer() {
             </A>
           </div>
         </div>
-        <div className='mt-5 text-xs'>&copy; 2023 British Powerlifting Federation. All Rights Reserved.</div>
+        <div className='mt-5 text-xs'>&copy; 2024 British Powerlifting Federation. All Rights Reserved.</div>
       </div>
     </footer>
   );
