@@ -12,7 +12,7 @@ export function Schedule() {
                 <div className='text-lg font-bold'>Saturday 18th May 2024</div>
                 <div>Platform 1: Women up to 75kg B/W Classes</div>
                 <div>Platform 2: Men up to 82.5kg B/W Classes</div>
-                <div>Platform 3: ALL STRICT CURL LIFTERS</div>
+                <div>Platform 3: All Strict Curl lifters</div>
               </div>
               <div className='mb-8'>
                 <div className='text-lg font-bold'>Sunday 19th May 2024 full power</div>
