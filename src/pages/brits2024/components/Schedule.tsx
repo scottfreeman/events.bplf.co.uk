@@ -18,6 +18,7 @@ export function Schedule() {
                 <div className='text-lg font-bold'>Sunday 19th May 2024 full power</div>
                 <div>Platform 1: Women over 75kg B/W Classes</div>
                 <div>Platform 2: Men over 82.5kg B/W/ Classes</div>
+                <div>All teen and junior lifters</div>
               </div>
             </div>
           </div>
