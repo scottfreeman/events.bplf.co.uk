@@ -27,10 +27,10 @@ export function Schedule() {
               <div className='text-2xl uppercase font-bold mb-4'>Weigh-In &amp; Gear Check Schedule</div>
               <div className='mb-8'>
                 <div className='mb-2'>
-                  Thursday 27th June 2024 for Friday athletes will be weigh-in, kit and ID checks 12pm till 2pm
+                  Friday 28th June 2024 for Saturday athletes will be weigh-in, kit and ID checks 12pm till 2pm
                 </div>
                 <div className='mb-2'>
-                  Friday 28th June 2024 for Saturday athletes will be weigh-in, kit and ID checks12pm till 2pm
+                  Saturday 29th June 2024 for Sunday athletes will be weigh-in, kit and ID checks 12pm till 2pm
                 </div>
                 <div>This is a 24 hour weigh in no one will be weighed in on the day they are lifting.</div>
               </div>
