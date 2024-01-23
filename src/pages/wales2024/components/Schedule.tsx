@@ -2,7 +2,7 @@ import { A } from '@/components/atoms';
 
 export function Schedule() {
   return (
-    <div className='xl:w-5/6 m-auto mb-10'>
+    <div className='xl:w-5/6 m-auto'>
       <section className='flex flex-wrap'>
         <div className='flex w-full lg:w-1/2'>
           <div className='m-4 border rounded w-full'>

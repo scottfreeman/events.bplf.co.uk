@@ -57,14 +57,18 @@ export function Main() {
   return (
     <div>
       <section className='bg-black text-white py-8 lg:py-10 flex flex-col items-center text-center'>
-        <div className='mb-8'>
-          <div className='text-4xl lg:text-6xl font-bold mb-12 uppercase'>
-            WPU World Pro Cup 2024 &<br />
-            100% Strict Curl Championships
+        <div className='mb-8 mx-4'>
+          <div className='text-4xl lg:text-6xl font-bold mb-12 uppercase'>Mr & Mrs univers pro meet</div>
+          <div className='text-2xl lg:text-4xl font-bold mb-2 uppercase'>
+            RAW, CLASSIC RAW & SINGAL PLY platform 2 : BRITISH POWERLIFTING FEDERATION / WORLD POWERLIFTING UNION Mr &
+            Mrs Universe pro meet (non tested) Wales
+            <br />
+            <br />
+            RAW only platform 1 : 100% raw powerlifting Mr & Mrs universe pro meet tested wales
           </div>
-          <div className='text-3xl lg:text-5xl font-bold mb-2 uppercase'>ICC Wales, Newport</div>
+          <div className='text-2xl lg:text-4xl font-bold mb-2 uppercase'>ICC Wales, Newport</div>
         </div>
-        <div className='text-2xl lg:text-4xl font-bold mb-8 uppercase'>
+        <div className='text-xl lg:text-4xl font-bold mb-8 uppercase'>
           29 - 30<sup className='lowercase text-sm lg:-top-5'>th</sup> June, 2024
         </div>
         <div>
