@@ -97,9 +97,15 @@ export function Main() {
             <div className='mb-2'>
               <span className='font-bold'>Spectators fee:</span>
               <br />
-              &pound;10 each day for 16 years old and over.
+              £5 per day or a weekend pass is £7.50.
+              <br />
+              Children under 16 go free.
               <br />
               Lifting begins 10am each day.
+              <br />
+              <A href='https://www.tickettailor.com/events/welshfitnessexpo' target='_blank'>
+                Purchase Spectator Tickets
+              </A>
             </div>
             <div className='mb-2'>
               <span className='font-bold'>Powerlifting bars used:</span>

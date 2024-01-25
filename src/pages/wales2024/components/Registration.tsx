@@ -43,6 +43,15 @@ export function Registration() {
               DAY 2 PLATFORM 2 FULL POWER BPF/WPU
             </Button>
           </div>
+          <div className='mb-4'>
+            <Button
+              href='https://www.tickettailor.com/events/welshfitnessexpo'
+              target='_blank'
+              className='bg-red-900 hover:bg-red-800 text-sm uppercase'
+            >
+              Spectator Tickets
+            </Button>
+          </div>
         </div>
       </section>
     </div>
