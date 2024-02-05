@@ -31,7 +31,7 @@ export function Registration() {
               target='_blank'
               className='bg-red-700 hover:bg-red-800 uppercase text-xl'
             >
-              DAY 2 PLATFORM 1 FULL POWER RAW 10% RAW
+              DAY 2 PLATFORM 1 FULL POWER RAW 100% RAW
             </Button>
           </div>
           <div className='mb-4'>
